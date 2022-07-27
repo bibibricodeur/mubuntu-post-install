@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=Conky
+#GenericName=nom générique
+#Comment=commentaire/description du programme
+#Icon=icône du programme #il peut s'agir d'un chemin, ou alors du nom d'une icône contenue dans votre thème d'icônes
+Exec=conky -p 6
+Terminal=false
+StartupNotify=false
+Categories=Categories=Application;
+# https://doc.ubuntu-fr.org/raccourci-lanceur
+Name[fr_FR]=conky

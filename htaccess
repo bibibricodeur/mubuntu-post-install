@@ -1,0 +1,7 @@
+# https://httpd.apache.org/docs/2.4/fr/mod/mod_autoindex.html#indexoptions
+# La directive IndexOptions permet de spécifier les options de configuration de l'indexation du répertoire. option peut prendre l'une des valeurs suivantes :
+
+IndexOptions Charset=UTF-8 DescriptionWidth=* FancyIndexing HTMLTable NameWidth=* 
+
+
+
